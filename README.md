@@ -1,4 +1,4 @@
-# Project
+# Mini Focalboard
 
 ## General Process
 
@@ -7,5 +7,5 @@
 ## Tech Stack
 
 ```bash
-git clone repo
+git clone https://github.com/aakashvishcoder/Mini-Focalboard.git
 cd your-repo
