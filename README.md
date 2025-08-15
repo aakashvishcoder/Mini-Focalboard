@@ -8,6 +8,8 @@ To create this project, I first defined the tech stack. At the beginning of this
 
 ## Complications
 
+As mentioned before, when I tried creating this project in TypeScript, I was having trouble running the code, which forced me to transition to React. Additionally, tailwind CSS required a lot of setup beforehand which was quite a hassle. 
+
 ## Tech Stack
 
 ```bash
